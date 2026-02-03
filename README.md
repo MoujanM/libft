@@ -55,4 +55,4 @@ This repository contains implementations of commonly used memory, string, charac
 
 ## Contact
 
-Author: Your Name (replace with your name or GitHub profile)
+Author: MoujanM
